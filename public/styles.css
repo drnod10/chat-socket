@@ -43,3 +43,7 @@ button {
   border: 1px solid #ddd;
   padding: 20px;
 }
+
+.message {
+  overflow: scroll;
+}
